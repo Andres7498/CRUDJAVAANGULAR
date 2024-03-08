@@ -1,0 +1,4 @@
+com\example\SparkREST.class
+com\example\PostgreSQLConnection.class
+com\example\CRUDPersons.class
+com\example\Person.class
